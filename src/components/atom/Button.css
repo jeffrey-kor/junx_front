@@ -1,0 +1,15 @@
+.button {
+    background: black;
+}
+
+.button-text {
+    position: absolute;
+    /*font-family: "Candara Light";*/
+    font-size: 20px;
+    text-align: center;
+    width:414px;
+    height:94px;
+    top:802px;
+    color: #FFFFFF;
+    border: none;
+}
